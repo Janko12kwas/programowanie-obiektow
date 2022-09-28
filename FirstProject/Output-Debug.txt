@@ -1,0 +1,14 @@
+﻿'FirstProject.exe' (Win32): Loaded 'C:\Jan Kwaśniewski\programowanie-obiektow\FirstProject\Debug\FirstProject.exe'. Symbols loaded.
+'FirstProject.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'FirstProject.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'FirstProject.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'FirstProject.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'FirstProject.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'FirstProject.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0xd04 has exited with code 0 (0x0).
+'FirstProject.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'FirstProject.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'FirstProject.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x1c24 has exited with code 0 (0x0).
+The thread 0x29f0 has exited with code 0 (0x0).
+The program '[7328] FirstProject.exe' has exited with code 0 (0x0).

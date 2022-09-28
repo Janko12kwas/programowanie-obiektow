@@ -1,7 +1,7 @@
 ﻿// FirstProject.cpp : This file contains the 'main' function.
 //  Program execution begins and ends there.
 
-
+using namespace std;
 #include <iostream>
 
 int main()
@@ -33,15 +33,20 @@ int main()
 
     //github.com/IronLittleFox
 
-    std::cout << "Hel\nlo World!\n";
-    std::cout << "Hello World!\n";
+   
 
-    std::cout << "Predkosc to km\\h\n";
 
-    std::cout << "Tabulator\ttabulator\n";
 
-    std::cout << 125.5 << " to jest jd " << 16 << "\n";
+    int numberFromUser;
 
-    std::cout << 12635355 * 34;
+
+    cout << "Podaj liczbe ";
+    cin >> numberFromUser;
+    cout << "Liczba to " << numberFromUser ;
+
+
+   
+
 }
+
 
