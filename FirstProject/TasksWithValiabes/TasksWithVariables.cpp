@@ -10,7 +10,7 @@ Napisz funkcje ktora pobierze dwie liczby oraz wykona podstawowa operacje arytme
 
 void task1()
 {
-
+    
     int firstNumber, secondNumber;
 
     std::cout << "Podaj pierwsza liczbe:\n";
@@ -38,13 +38,18 @@ void task1()
 }
 
 
-
+void task2()
+{
+    std::cout << "15 / 4 = " << (15 / 4) << '\n';
+    std::cout << "15 / 4 = " << (15.0 / 4) << '\n';
+    std::cout << "15 / 4 = " << (15 / 4.0) << '\n';
+    std::cout << "15 / 4 = " << (15.0 / 4.0) << '\n';
+}
 
 
 
 int main()
 {
-    task1();
-
-
+    //task1();
+    task2();
 }
