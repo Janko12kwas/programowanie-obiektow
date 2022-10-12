@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+#include <cmath>
 
 
 
@@ -48,8 +49,50 @@ void task2()
 
 
 
+
+/*
+Napisz funkcje która oblic\y pole trójkąta.
+*/
+
+void task3()
+{
+    float base, height;
+
+    std::cout << "Podaj podstawe trojkata\n";
+    std::cin >> base;
+
+    std::cout << "Podaj wysokosc trojkata\n";
+    std::cin >> height;
+
+    float area;
+    area = 0.5 * base * height;
+
+    std::cout << "Pole trojkata wynosi: " << area << "\n";
+}
+
+/*
+Napisz funkcje ktora obliczy przekatna kwadratu
+*/
+
+
+void task4()
+{
+
+    float side;
+
+    std::cout << "Podaj bok kwadratu\n";
+    std::cin >> side;
+
+    float diagonal;
+
+    diagonal = side * sqrt(2);
+}
+
+
 int main()
 {
     //task1();
-    task2();
+    //task2();
+    //task3();
+    task4();
 }
