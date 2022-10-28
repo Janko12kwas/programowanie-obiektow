@@ -79,7 +79,24 @@ void task3()
     std::cout << "Liczba do sprawdzenia:\n";
     std::cin >> numberToCheck;
 
-    if ()
+    if (numberToCheck >= 10)
+   {
+        if (numberToCheck <= 25)
+        {
+            std::cout << "liczba jest w zakresie\n";
+        }
+        else
+        {
+            std::cout << "Liczba nie jest w zakresie\n";
+        }
+   }
+
+    else
+    {
+        std::cout << "liczba nie jest w zakresie\n";
+    }
+
+
 }
 
 
@@ -87,6 +104,8 @@ int main()
 {
 	//task1();
     //task2();
-}   task3();
+    task3();
+
+}  
     
 
