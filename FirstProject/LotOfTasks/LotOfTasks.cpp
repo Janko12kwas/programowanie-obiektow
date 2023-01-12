@@ -79,7 +79,7 @@ void task2()
 
 	std::cout << "Pole prostokata o podanych bokach wynosi: " << firstSite * secondSite << "\n";
 }
-
+ 
 void task3()
 {
 
