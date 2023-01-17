@@ -141,7 +141,29 @@ void task6()
 	std::cout << "Wyrazenie a^2 + b^2 dla podanych liczb wynosi: " << a * a + b * b;
 }
 
+//4. Program obliczający pole koła.
+void task7()
+{
+	int promien;
+	float pole = 0.00;
+	std::cout << "Podaj promien kola\n";
+	std::cin >> promien;
 
+	std::system("cls");
+
+	pole = promien * promien * 3.14;
+
+	std::cout << "Pole kola: \n";
+	std::cout << pole;
+
+	std::cin.get();
+
+} 
+
+void task8()
+{
+
+}
 
 int main()
 {
@@ -150,5 +172,7 @@ int main()
 	//task3();
 	//task4();
 	//task5();
-	task6();
+	//task6();
+	//task7();
+	task8();
 }
