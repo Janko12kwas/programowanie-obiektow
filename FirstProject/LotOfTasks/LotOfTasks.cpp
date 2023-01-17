@@ -63,8 +63,8 @@ void task1()
 	int suma, srednia;
 
 	suma = secondNumber + firstNumber;
-
-	srednia = suma / 2;
+  
+	srednia = suma / 2; 
 
 	std::cout << "Srednia podanych liczb wynosi: " << srednia << "\n";
 }
